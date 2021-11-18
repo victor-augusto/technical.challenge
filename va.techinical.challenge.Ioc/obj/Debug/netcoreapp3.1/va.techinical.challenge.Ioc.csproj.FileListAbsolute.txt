@@ -1,0 +1,14 @@
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.techinical.challenge.Ioc\bin\Debug\netcoreapp3.1\va.techinical.challenge.Ioc.deps.json
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.techinical.challenge.Ioc\bin\Debug\netcoreapp3.1\va.techinical.challenge.Ioc.dll
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.techinical.challenge.Ioc\bin\Debug\netcoreapp3.1\va.techinical.challenge.Ioc.pdb
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.techinical.challenge.Ioc\bin\Debug\netcoreapp3.1\va.technical.challenge.domain.dll
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.techinical.challenge.Ioc\bin\Debug\netcoreapp3.1\va.technical.challenge.services.dll
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.techinical.challenge.Ioc\bin\Debug\netcoreapp3.1\va.technical.challenge.domain.pdb
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.techinical.challenge.Ioc\bin\Debug\netcoreapp3.1\va.technical.challenge.services.pdb
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.techinical.challenge.Ioc\obj\Debug\netcoreapp3.1\va.techinical.challenge.Ioc.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.techinical.challenge.Ioc\obj\Debug\netcoreapp3.1\va.techinical.challenge.Ioc.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.techinical.challenge.Ioc\obj\Debug\netcoreapp3.1\va.techinical.challenge.Ioc.AssemblyInfo.cs
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.techinical.challenge.Ioc\obj\Debug\netcoreapp3.1\va.techinical.challenge.Ioc.csproj.CopyComplete
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.techinical.challenge.Ioc\obj\Debug\netcoreapp3.1\va.techinical.challenge.Ioc.dll
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.techinical.challenge.Ioc\obj\Debug\netcoreapp3.1\va.techinical.challenge.Ioc.pdb
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.techinical.challenge.Ioc\obj\Debug\netcoreapp3.1\va.techinical.challenge.Ioc.csproj.CoreCompileInputs.cache

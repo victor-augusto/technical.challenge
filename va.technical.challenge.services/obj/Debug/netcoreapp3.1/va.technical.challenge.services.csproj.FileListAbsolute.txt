@@ -1,0 +1,12 @@
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.technical.challenge.services\bin\Debug\netcoreapp3.1\va.technical.challenge.services.deps.json
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.technical.challenge.services\bin\Debug\netcoreapp3.1\va.technical.challenge.services.dll
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.technical.challenge.services\bin\Debug\netcoreapp3.1\va.technical.challenge.services.pdb
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.technical.challenge.services\bin\Debug\netcoreapp3.1\va.technical.challenge.domain.dll
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.technical.challenge.services\bin\Debug\netcoreapp3.1\va.technical.challenge.domain.pdb
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.technical.challenge.services\obj\Debug\netcoreapp3.1\va.technical.challenge.services.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.technical.challenge.services\obj\Debug\netcoreapp3.1\va.technical.challenge.services.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.technical.challenge.services\obj\Debug\netcoreapp3.1\va.technical.challenge.services.AssemblyInfo.cs
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.technical.challenge.services\obj\Debug\netcoreapp3.1\va.technical.challenge.services.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.technical.challenge.services\obj\Debug\netcoreapp3.1\va.technical.challenge.services.csproj.CopyComplete
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.technical.challenge.services\obj\Debug\netcoreapp3.1\va.technical.challenge.services.dll
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.technical.challenge.services\obj\Debug\netcoreapp3.1\va.technical.challenge.services.pdb

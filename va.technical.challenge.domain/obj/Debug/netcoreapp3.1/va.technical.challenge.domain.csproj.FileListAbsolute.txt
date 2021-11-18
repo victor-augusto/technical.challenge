@@ -1,0 +1,8 @@
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.technical.challenge.domain\bin\Debug\netcoreapp3.1\va.technical.challenge.domain.deps.json
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.technical.challenge.domain\bin\Debug\netcoreapp3.1\va.technical.challenge.domain.dll
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.technical.challenge.domain\bin\Debug\netcoreapp3.1\va.technical.challenge.domain.pdb
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.technical.challenge.domain\obj\Debug\netcoreapp3.1\va.technical.challenge.domain.AssemblyInfoInputs.cache
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.technical.challenge.domain\obj\Debug\netcoreapp3.1\va.technical.challenge.domain.AssemblyInfo.cs
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.technical.challenge.domain\obj\Debug\netcoreapp3.1\va.technical.challenge.domain.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.technical.challenge.domain\obj\Debug\netcoreapp3.1\va.technical.challenge.domain.dll
+C:\Users\Victor\source\repos\va.technical.challenge.code\va.technical.challenge.domain\obj\Debug\netcoreapp3.1\va.technical.challenge.domain.pdb
